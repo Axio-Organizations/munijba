@@ -1,0 +1,11 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#DC2626"/>
+  <rect x="120" y="80" width="160" height="100" fill="#EF4444" rx="10"/>
+  <circle cx="160" cy="110" r="15" fill="#FEE2E2"/>
+  <circle cx="200" cy="110" r="15" fill="#FEE2E2"/>
+  <circle cx="240" cy="110" r="15" fill="#FEE2E2"/>
+  <rect x="170" y="140" width="60" height="20" fill="#F87171"/>
+  <path d="M200 60 L180 80 L220 80 Z" fill="#FEE2E2"/>
+  <text x="200" y="220" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Vacunación</text>
+  <text x="200" y="240" text-anchor="middle" fill="#FEE2E2" font-family="Arial, sans-serif" font-size="12">Campaña de Salud</text>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "name": "Municipalidad de Juan Bautista Alberdi",
+  "short_name": "Muni JBA",
+  "description": "Sitio web oficial de la Municipalidad de Juan Bautista Alberdi, Tucumán",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1e40af",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}

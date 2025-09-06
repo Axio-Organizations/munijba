@@ -1,0 +1,9 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#DC2626"/>
+  <circle cx="150" cy="150" r="40" fill="#FCD34D"/>
+  <circle cx="250" cy="150" r="40" fill="#FCD34D"/>
+  <rect x="180" y="100" width="40" height="100" fill="#92400E"/>
+  <polygon points="200,80 180,100 220,100" fill="#92400E"/>
+  <text x="200" y="220" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Festival de la Tradición</text>
+  <text x="200" y="245" text-anchor="middle" fill="#FEE2E2" font-family="Arial, sans-serif" font-size="14">15 de Septiembre</text>
+</svg>

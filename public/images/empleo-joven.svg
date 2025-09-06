@@ -1,0 +1,10 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#059669"/>
+  <rect x="120" y="100" width="160" height="80" fill="#10B981" rx="8"/>
+  <circle cx="160" cy="120" r="12" fill="#D1FAE5"/>
+  <circle cx="200" cy="120" r="12" fill="#D1FAE5"/>
+  <circle cx="240" cy="120" r="12" fill="#D1FAE5"/>
+  <rect x="150" y="150" width="100" height="20" fill="#34D399"/>
+  <text x="200" y="210" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Empleo Joven</text>
+  <text x="200" y="235" text-anchor="middle" fill="#D1FAE5" font-family="Arial, sans-serif" font-size="14">18 a 25 años</text>
+</svg>

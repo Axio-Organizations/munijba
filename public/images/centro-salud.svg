@@ -1,0 +1,9 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#DC2626"/>
+  <rect x="100" y="80" width="200" height="120" fill="#EF4444" rx="10"/>
+  <rect x="150" y="120" width="100" height="40" fill="#F87171"/>
+  <circle cx="200" cy="60" r="20" fill="#FEE2E2"/>
+  <path d="M190 55 L200 50 L210 55 L200 65 Z" fill="#DC2626"/>
+  <text x="200" y="230" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Centro de Salud 24hs</text>
+  <text x="200" y="255" text-anchor="middle" fill="#FEE2E2" font-family="Arial, sans-serif" font-size="14">Atención Permanente</text>
+</svg>

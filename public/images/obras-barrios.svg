@@ -1,0 +1,11 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#F97316"/>
+  <rect x="50" y="100" width="100" height="80" fill="#EA580C" rx="5"/>
+  <rect x="170" y="80" width="60" height="100" fill="#EA580C" rx="5"/>
+  <rect x="250" y="90" width="100" height="90" fill="#EA580C" rx="5"/>
+  <circle cx="100" cy="60" r="12" fill="#FED7AA"/>
+  <circle cx="200" cy="40" r="15" fill="#FED7AA"/>
+  <circle cx="300" cy="50" r="10" fill="#FED7AA"/>
+  <text x="200" y="220" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Obras en Barrios</text>
+  <text x="200" y="240" text-anchor="middle" fill="#FED7AA" font-family="Arial, sans-serif" font-size="12">Mejoramiento Urbano</text>
+</svg>
